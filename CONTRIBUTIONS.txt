@@ -1,0 +1,22 @@
+CONTRIBUTIONS
+==================
+Edward Lupea
+------------------
+Created the databases
+Did the CSS
+Made login.php, logout.php, orders.php, order_confirmation.php, and register.php.
+=================================================================================
+Matias Meline
+--------------
+Created admin
+Made admin_login.php, admin_logout.php, admin_dashboard.php, auth_check.php, and the index.php
+Established a connection for the databases
+=================================================================================
+Shared
+-------
+We both also worked on cart.php, checkout.php, products.php
+=============================================================
+Contributions as a percentage
+-----------------------------
+Edward Lupea - 50%
+Matias Melinte - 50%
