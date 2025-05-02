@@ -1,0 +1,33 @@
+.col-25 {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    padding: 0 16px;
+  }
+  
+  .container {
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+  }
+  
+  span.price {
+    float: right;
+    color: grey;
+  }
+  
+  hr {
+    border: 1px solid lightgrey;
+  }
+  
+  /* Responsive layout - when the screen is less than 800px wide, 
+     make the cart column go on top */
+  @media (max-width: 800px) {
+    .row {
+      flex-direction: column-reverse;
+    }
+    .col-25 {
+      margin-bottom: 20px;
+    }
+  }
+  
